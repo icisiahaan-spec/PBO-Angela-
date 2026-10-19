@@ -1,0 +1,4 @@
+inheritance_multiple.AmphibiousVehicle
+inheritance_multiple.Test
+inheritance_multiple.WaterVehicle
+inheritance_multiple.LandVehicle

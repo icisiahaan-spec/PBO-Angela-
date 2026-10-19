@@ -1,0 +1,5 @@
+AbstractClass.MantraAbstrak
+AbstractClass.ExpectoPatronum
+AbstractClass.Lumos
+AbstractClass.DemoMantraAbstrak
+AbstractClass.Expelliarmus

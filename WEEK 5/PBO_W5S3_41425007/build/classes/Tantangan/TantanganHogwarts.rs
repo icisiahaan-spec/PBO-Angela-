@@ -1,0 +1,7 @@
+Tantangan.SistemPertahanan
+Tantangan.Fidelius
+Tantangan.MantraAntiApparition
+Tantangan.MantraPerlindungan
+Tantangan.Protego
+Tantangan.TantanganHogwarts
+Tantangan.Penyihir

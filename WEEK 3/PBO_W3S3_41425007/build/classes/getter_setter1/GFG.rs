@@ -1,0 +1,2 @@
+getter_setter1.GetSet
+getter_setter1.GFG

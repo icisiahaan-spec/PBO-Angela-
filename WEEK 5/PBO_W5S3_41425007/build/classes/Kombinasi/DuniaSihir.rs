@@ -1,0 +1,6 @@
+Kombinasi.Penyihir
+Kombinasi.Lumos
+Kombinasi.Expelliarmus
+Kombinasi.ExpectoPatronum
+Kombinasi.Mantra
+Kombinasi.DuniaSihir
